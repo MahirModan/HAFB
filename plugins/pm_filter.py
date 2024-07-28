@@ -104,7 +104,7 @@ async def next_page(bot, query):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ", url='https://t.me/CinemaRoom/331')
+            InlineKeyboardButton(text="Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ", url='https://t.me/HenTaii_Store/25')
         ]
     )
 
@@ -681,7 +681,7 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ", url='https://t.me/CinemaRoom/331')
+            InlineKeyboardButton(text="Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ", url='https://t.me/HenTaii_Store/25')
         ]
     )
 
